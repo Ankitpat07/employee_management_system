@@ -258,7 +258,6 @@ Import collection into Postman and test APIs directly.
 
 # Author
 
-## Ankit
+## Ankit Pathak
 
-MCA Final Year Student  
-Java Full Stack Developer
+
